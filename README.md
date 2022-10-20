@@ -1,2 +1,2 @@
 # Projects
-A collective of personal projects and school projects 
+Pizza ordering app using java (unfinished)
